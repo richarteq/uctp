@@ -1,6 +1,6 @@
 /*
  @file uctpv1.0.cpp
- 
+
  @datetime 2019-10-11 10:14:09 a.m.
  @version 1.0
  @author Richart Smith Escobedo Quispe
@@ -8,7 +8,7 @@
  
  @description
  Implementation for initial solution (of the instances) of Curriculum Based Course Timetabling 2007.
- This code read the input file dataset for Curriculum Based Course Timetabling.
+ This code read the input file dataset for Curriculum Based Course Timetabling to vectors what containt structs.
  http://www.cs.qub.ac.uk/itc2007/curriculmcourse/course_curriculm_index.htm
  
  @structs course, room, curricula and constraint
