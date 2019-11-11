@@ -1,9 +1,10 @@
 /*
  @file uctpv1.0.cpp
+ 
  @datetime 2019-10-11 10:14:09 a.m.
  @version 1.0
  @author Richart Smith Escobedo Quispe
- @contact: rescobedoq@unsa.edu.pe
+ @contact rescobedoq@unsa.edu.pe
  
  @description
  Implementation for initial solution (of the instances) of Curriculum Based Course Timetabling 2007.
@@ -13,7 +14,7 @@
  @structs course, room, curricula and constraint
  @vectors coursesVector, roomsVector, curriculaVector and contraintsVector.
 
- @copyright 2019 Richart Smith Escobedo Quispe. All Rights Reserved.
+ @copyright 2019, Richart Smith Escobedo Quispe. All Rights Reserved.
  @licence GPLv3 - https://www.gnu.org/licenses/gpl-3.0.html
 */
 
